@@ -21,6 +21,7 @@ git push origin master
 
 b. Create a new branch called "feature-branch" and switch to that branch. Add some content to
 "sample.txt" and commit the changes.
+
  SOLUTION:
 git branch feature_branch
 git checkout feature_branch
@@ -31,11 +32,11 @@ git push origin feature_branch
 
 c. Merge the "feature-branch" back into the main branch (usually "master" or "main"). Resolve any
 conflicts if they occur.
+
 SOLUTION:
 git checkout master 
 git merge feature_branch
 git push origin master 
 
-no conflicts occured
 
 
