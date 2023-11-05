@@ -1,10 +1,13 @@
 # Assignment
- TOPIC: Version Control with Git
- Part II: Laboratory Questions
+ 
 1. a. Initialize a local git repository in a new directory and add a text file named "sample.txt" to the
 repository. Commit the file with a meaningful message.
 
-First create a new directory in file manager and open git bash from the same folder.
+To initialize a local git repository in a new directory:
+
+1.	Open Terminal.
+2.	Navigate to the directory where you want to create the new repository.
+3.	Run the following commands in git bash
 
 SOLUTION:
 git init  //initialize the git
