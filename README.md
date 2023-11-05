@@ -3,7 +3,9 @@
  Part II: Laboratory Questions
 1. a. Initialize a local git repository in a new directory and add a text file named "sample.txt" to the
 repository. Commit the file with a meaningful message.
+
 First create a new directory in file manager and open git bash from the same folder.
+
 SOLUTION:
 git init  //initialize the git
 git status
